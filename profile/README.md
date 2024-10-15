@@ -1,6 +1,6 @@
-![image](https://storage.googleapis.com/dedomena-images/dedomena_github.jpg)
-
 ## Welcome to Dedomena AI 👋
+
+![image](https://storage.googleapis.com/dedomena-images/dedomena_github.jpg)
 
 According to Google: "Dedomena AI is a Spanish artificial intelligence company based in Madrid. They specialize in synthetic data generation and anonymization of behavioral data. 
 Their platform helps businesses leverage the full potential of their data while ensuring privacy and security."
